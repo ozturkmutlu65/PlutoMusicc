@@ -1,0 +1,16 @@
+asyncio==3.4.3
+aiofiles==23.2.1
+aiohttp==3.8.5
+numpy==1.26.0
+pillow==10.0.1
+psutil
+motor
+pymongo==4.3.3
+pyrogram==2.0.106
+py-tgcalls==0.9.7
+python-dotenv==1.0.0
+tgcrypto==1.2.5
+git+https://github.com/alexmercerind/youtube-search-python
+git+https://github.com/Amahocaam/Muzik
+git+https://github.com/MonsterBos/sello-
+git+https://github.com/Amahocaam/Hizk
